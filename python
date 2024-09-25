@@ -1,7 +1,8 @@
+# 00000000000000000
 import numpy as np.
 import matplotlib.pyplot as plt
 
-# Number of samples 00000000000000000
+# Number of samples
 num_samples = 1000
 
 # Generating Gaussian white noise.
